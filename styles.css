@@ -8,6 +8,10 @@ h1, h2{
 li{
 	list-style-type: none;
 }
+a{
+	text-decoration-line: none;
+	color:inherit;
+}
 .box{
 	margin-inline: 10px;
 	padding: 10px 0;
