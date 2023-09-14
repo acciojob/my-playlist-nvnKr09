@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+body{
+	background: rgb(204, 204, 204);
+	font-family: sans-serif;
+}
+h1, h2{
+	text-align: center;
+}
+li{
+	list-style-type: none;
+}
+.box{
+	margin-inline: 10px;
+	padding: 10px 0;
+	border: 1px solid black;
+	border-radius: 8px;
+	background: rgb(255, 255, 255);
+}
+.box2{
+	width: 80%;
+	margin:auto;
+}
+.box2 video, audio{
+	width: 96%;
+	padding: 10px;
+}
